@@ -1,0 +1,23 @@
+{
+  "name": "clover-note-parser",
+  "version": "1.0.0",
+  "description": "네이버 클로버 노트 파서",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wonsama/clover-note-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wonsama/clover-note-parser/issues"
+  },
+  "homepage": "https://github.com/wonsama/clover-note-parser#readme",
+  "dependencies": {
+    "@types/node": "^18.0.1"
+  }
+}
