@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/wonsama/clover-note-parser#readme",
   "dependencies": {
-    "@types/node": "^18.0.1"
+    "@types/node": "^18.0.1",
+    "dotenv": "^16.0.1"
   }
 }
